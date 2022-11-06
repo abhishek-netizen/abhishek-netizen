@@ -15,7 +15,9 @@
 
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-netizen&show_icons=true&theme=radical&count_private=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-netizen&layout=compact&theme=radical)](https://github.com/abhishek-netizen/github-readme-stats)
+
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![funny_me](https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif)
