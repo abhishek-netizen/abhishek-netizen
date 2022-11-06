@@ -23,12 +23,12 @@
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
-            <span><strong>Python</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            <span><strong>JavaScript</strong></span><br>
+            <img height="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>Java</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+            <span><strong>Python</strong></span><br>
+            <img height="32" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg">
             </td>
             <td width="80px" align="center">
             <span><strong>HTML</strong></span><br>
@@ -49,11 +49,11 @@
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
             </td>
             <td width="80px" align="center">
-            <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            <span><strong>Dart</strong></span><br>
+            <img height="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/dart/dart-original.svg">
             <td width="80px" align="center">
-            <span><strong>Canva</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
+            <span><strong>Linux</strong></span><br>
+            <img height="32px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg">
             </td>
         </tr>
     </tbody>
