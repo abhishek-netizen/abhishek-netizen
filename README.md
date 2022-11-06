@@ -60,6 +60,4 @@
 </table>
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 ![funny_me](https://undo.io/media/uploads/files/Frustrated_programmer_qeR3D5O.gif)
