@@ -8,7 +8,7 @@
 <p>
 	<strong>Welcome to my page!</strong>
     <br><br>
-    <a href="https://twitter.com/home">Abhishek</a> here, software developer with background in mobile application development, especially on Android.
+    <a href="#">Abhishek</a> here, software developer with background in mobile application development, especially on Android.
 	<br>
 </p>
 
