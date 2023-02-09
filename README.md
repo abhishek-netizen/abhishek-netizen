@@ -8,11 +8,13 @@
 <p>
 	<strong>Welcome to my page!</strong>
     <br><br>
-    <a href="#">Abhishek</a> here, software developer with background in mobile application development, especially on Android.
+    <a href="#">Abhishek</a> here, software developer with background in mobile application development with 2 years of experience, especially on Android.
 	<br>
 </p>
 
+:e-mail: e-mail: abhishekwithu101@gmail.com
 
+:thought_balloon: twitter: @JnAbhish
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishek-netizen&show_icons=true&theme=radical&count_private=true)
 
