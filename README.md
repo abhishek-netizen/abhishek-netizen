@@ -8,7 +8,7 @@
 <p>
 	<strong>Welcome to my page!</strong>
     <br><br>
-    <a href="#">Abhishek</a> here, software developer with background in mobile application development with 2 years of experience, especially on Android.
+    <a href="#">Abhishek</a> here, software developer with background in software application development with 2 years of experience
 	<br>
 </p>
 
