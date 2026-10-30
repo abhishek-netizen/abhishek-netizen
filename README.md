@@ -66,7 +66,7 @@ I enjoy working across the stack — from crafting intuitive user interfaces to 
 
 <div align="center">
 
-### Frontend & Mobile Development
+### Frontend Development
 
 <img src="https://skillicons.dev/icons?i=react,redux,nextjs,ts,js,html,css,sass,tailwind,materialui,bootstrap,vite,webpack,babel" alt="Frontend technologies"/>
 
